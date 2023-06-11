@@ -1,6 +1,8 @@
 # Gabriel Smereka
 
-## Sobre Mim
+## Portugues | [English ](https://github.com/gsmereka/gsmereka/blob/main/README_en.md)  
+
+## Sobre Mims
 
 Sou um estudante de Engenharia de Software dedicado a aprimorar minhas habilidades técnicas. Atualmente, estou buscando experiência profissional para aplicar e expandir meus conhecimentos.
 
