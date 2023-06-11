@@ -15,7 +15,7 @@ Sou um estudante de Engenharia de Software dedicado a aprimorar minhas habilidad
 
 - [Minishell](https://github.com/gsmereka/Minishell): Uma réplica simples do bash geralmente utilizado em ambientes linux.
 - [So Long](https://github.com/gsmereka/So_long): Meu primeiro jogo top-down, utilizando apenas c.
-- [Projetos 42](https://github.com/gsmereka/42_Projects): Repositório onde documentei os demais projeto que fiz na 42 São Paulo.
+- [Projetos 42](https://github.com/gsmereka/42_Projects): Repositório onde documentei os demais projetos que fiz na 42 São Paulo.
 
 Sinta-se à vontade para explorar meus repositórios e projetos. Estou sempre aberto a colaborações e oportunidades de aprendizado.
 
