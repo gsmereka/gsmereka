@@ -1,6 +1,6 @@
 # Gabriel Smereka
 
-## [Portugues ](https://github.com/gsmereka/gsmereka/blob/main/README.md) | English  
+## [Portugues 🇧🇷](https://github.com/gsmereka/gsmereka/blob/main/README.md) | English 🇺🇸
 
 ## About Me
 
