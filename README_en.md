@@ -25,3 +25,5 @@ Feel free to explore my repositories and projects, i am always open to collabora
 
 - [LinkedIn](https://www.linkedin.com/in/gabriel-smereka-3720a523b)
 - [Github](https://github.com/gsmereka)
+
+<small>[Icons Source](https://icons8.com/)</small>

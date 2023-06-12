@@ -23,3 +23,5 @@ Sinta-se à vontade para explorar meus repositórios e projetos. Estou sempre ab
 
 - [LinkedIn](https://www.linkedin.com/in/gabriel-smereka-3720a523b)
 - [Github](https://github.com/gsmereka)
+
+<small>[Icons Source](https://icons8.com/)</small>
