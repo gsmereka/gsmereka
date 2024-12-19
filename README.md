@@ -10,9 +10,16 @@ Sou um estudante de Engenharia de Software dedicado a aprimorar minhas habilidad
 
 ![git](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_git.png?raw=true)
 ![github](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_github.png?raw=true)
+![python](./readme_content/icon_python.png)
 ![c](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_c.png?raw=true)
+![c++](./readme_content/cpp.png)
+![javascript](./readme_content/icon_js.png)
+![html](./readme_content/icon_html.png)
+![css](./readme_content/icon_css3.png)
 ![bash](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_bash.png?raw=true)
-![c++](https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png)
+<img src="./readme_content/Godot_icon.svg" alt="godot" width="48
+" height="48">
+
 
 
 ## Projetos em Destaque

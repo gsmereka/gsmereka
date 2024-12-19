@@ -10,8 +10,15 @@ I am a software engeneer student dedicated to improving my tech skills, i'm curr
 
 ![git](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_git.png?raw=true)
 ![github](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_github.png?raw=true)
+![python](./readme_content/icon_python.png)
 ![c](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_c.png?raw=true)
+![c++](./readme_content/cpp.png)
+![javascript](./readme_content/icon_js.png)
+![html](./readme_content/icon_html.png)
+![css](./readme_content/icon_css3.png)
 ![bash](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_bash.png?raw=true)
+<img src="./readme_content/Godot_icon.svg" alt="godot" width="48
+" height="48">
 
 ## Featured Projects
 
