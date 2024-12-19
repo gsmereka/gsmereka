@@ -8,8 +8,12 @@ Sou um estudante de Engenharia de Software dedicado a aprimorar minhas habilidad
 
 ## Tecnologias
 
-![git](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_git.png?raw=true) ![github](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_github.png?raw=true) ![c](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_c.png?raw=true) ![bash](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_bash.png?raw=true) ![bash](https://icons8.com/icon/TpULddJc4gTh/c%2B%2B)
-![bash](https://icons8.com/icon/TpULddJc4gTh/c%2B%2B)
+![git](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_git.png?raw=true)
+![github](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_github.png?raw=true)
+![c](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_c.png?raw=true)
+![bash](https://github.com/gsmereka/gsmereka/blob/main/readme_content/icon_bash.png?raw=true)
+![c++](https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png)
+
 
 ## Projetos em Destaque
 
