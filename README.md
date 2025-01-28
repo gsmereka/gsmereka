@@ -4,7 +4,7 @@ Português | [English](https://github.com/gsmereka/gsmereka/blob/main/README_en.
 
 ## Sobre Mim
 
-Desenvolvedor de Software, gosto de aprender ferramentas novas,
+Desenvolvedor de Software, Human Coder pela 42 São Paulo, gosto de participar de gamejams e aprender tecnologias novas.
 
 ## Tecnologias
 
