@@ -4,7 +4,7 @@ Português | [English](https://github.com/gsmereka/gsmereka/blob/main/README_en.
 
 ## Sobre Mim
 
-Sou um estudante de Engenharia de Software dedicado a aprimorar minhas habilidades técnicas. Atualmente, estou buscando experiência profissional para aplicar e expandir meus conhecimentos.
+Desenvolvedor de Software, gosto de aprender ferramentas novas,
 
 ## Tecnologias
 
@@ -26,8 +26,8 @@ Sou um estudante de Engenharia de Software dedicado a aprimorar minhas habilidad
 
 
 - [Minishell](https://github.com/gsmereka/Minishell): Uma réplica simples do bash geralmente utilizado em ambientes linux.
-- [So Long](https://github.com/gsmereka/So_long): Meu primeiro jogo top-down, utilizando apenas c.
-- [Projetos 42](https://github.com/gsmereka/42_Projects): Repositório onde documentei os demais projetos que fiz na 42 São Paulo.
+- [Transcendence](https://github.com/gsmereka/transcendence): Plataforma para torneios de pong online, feita com Docker, PostgreSQL, Python e outras tecnologias, pronto pra Deploy.
+- [Projetos 42](https://github.com/gsmereka/WebServ): Servidor Web semelhante ao NGINX feito em C++.
 
 Sinta-se à vontade para explorar meus repositórios e projetos. Estou sempre aberto a colaborações e oportunidades de aprendizado.
 
@@ -35,5 +35,6 @@ Sinta-se à vontade para explorar meus repositórios e projetos. Estou sempre ab
 
 - [LinkedIn](https://www.linkedin.com/in/gabriel-smereka-3720a523b)
 - [Github](https://github.com/gsmereka)
+- gsmereka200@gmail.com
 
 <small>[Icons Source](https://icons8.com/)</small>
