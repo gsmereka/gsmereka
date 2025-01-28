@@ -27,7 +27,7 @@ Desenvolvedor de Software, gosto de aprender ferramentas novas,
 
 - [Minishell](https://github.com/gsmereka/Minishell): Uma réplica simples do bash geralmente utilizado em ambientes linux.
 - [Transcendence](https://github.com/gsmereka/transcendence): Plataforma para torneios de pong online, feita com Docker, PostgreSQL, Python e outras tecnologias, pronto pra Deploy.
-- [Projetos 42](https://github.com/gsmereka/WebServ): Servidor Web semelhante ao NGINX feito em C++.
+- [WebServ](https://github.com/gsmereka/WebServ): Servidor Web semelhante ao NGINX feito em C++.
 
 Sinta-se à vontade para explorar meus repositórios e projetos. Estou sempre aberto a colaborações e oportunidades de aprendizado.
 
